@@ -1,0 +1,46 @@
+body {
+	width:100%;
+	font-family: Sans-serif;
+}
+
+label {
+	width: 30%;
+	display: block; 
+	float: left;
+	margin-top: 20px;
+}
+textarea {
+	width:70%;
+	float: left;
+	height: 120px;
+	margin-top: 20px;
+}
+
+#submit_button {
+	clear: both;
+	float: right;
+	width: 30%;
+	height: 40px;
+	margin-top: 20px;
+	background-color: 
+}
+
+#query_form {
+	width: 60%;
+	margin: auto;
+	margin-top: 50px;
+}
+
+#title_div {
+	margin-top: 100px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.result_div {
+	margin:auto;
+}
+
+#result_table {
+	margin: auto;
+}
